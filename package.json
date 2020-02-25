@@ -1,0 +1,25 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "practices",
+  "main": "practice.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msong793y/practice.git"
+  },
+  "keywords": [
+    "practice"
+  ],
+  "author": "ms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/msong793y/practice/issues"
+  },
+  "homepage": "https://github.com/msong793y/practice#readme",
+  "dependencies": {
+    "jest": "^25.1.0"
+  }
+}
